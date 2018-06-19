@@ -33,7 +33,7 @@
                 android:id="@+id/button2"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                android:text="B"
+                android:text="my"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"/>
 
